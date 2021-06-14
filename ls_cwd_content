@@ -1,0 +1,10 @@
+total 20
+drwxr-xr-x 6 root root  194 Jun 14 05:53 .
+drwx------ 1 root root 4096 Jun  9 03:38 ..
+drwxr-xr-x 3 root root 4096 Jun  9 13:04 0x00-shell_basics
+drwxr-xr-x 3 root root 4096 Jun 10 06:39 0x01-shell_permissions
+drwxr-xr-x 2 root root  198 Jun 14 06:03 0x02-shell_redirections
+drwxr-xr-x 8 root root  166 Jun 14 06:03 .git
+-rw-r--r-- 1 root root   17 Jun 14 05:34 \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root    0 Jun 14 06:04 ls_cwd_content
+-rw-r--r-- 1 root root   42 Jun  9 03:44 README.md
