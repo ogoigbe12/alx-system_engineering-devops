@@ -2,7 +2,7 @@
 1-confused_smiley is a script that displays a confused smiley "(Ôo)'.
 2-hellofile display the content of the /etc/passwd file.
 3-twofiles display the content of /etc/passwd and /etc/hosts.
-4-lastlines display the last 10 lines of /etc/passwd.
+File 4-lastlines display the last 10 lines of /etc/passwd.
 5-firstlines display the first 10 lines of /etc/passwd.
 6-third_line is a script that displays the third line of the file iacta.
 7-file is a script that creates a file named exactly \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:) containing the text Holberton School ending by a new line.
